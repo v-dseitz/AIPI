@@ -1,0 +1,54 @@
+AI Powered Innovation with The Garage
+
+You will use these prompts during the workshop.  You can copy and paste from here directly into Copilot. It is recommended that you paste as plain text (Ctrl+Shift+V), as there may be unintended formatting which may confuse Copilot.  Use another text file, a blank document, or a PowerPoint to save the responses Copilot gives you.  You can use these to catch back up should Copilot crash or your connection get interrupted and lose your converstion history.
+
+Prompts:
+
+1.
+You are an extraordinary innovator. You possess a unique talent for crafting new and innovative ideas that solve challenging problems. Your creative prowess knows no limits as you dream up audacious ideas that awaken the imagination to what’s possible. You will be helping to assist in the creation of a new innovative idea.
+
+2.
+Using the following context and criteria: A great problem statement for an innovation project is one that clearly defines the problem you want to solve, the user who is experiencing it, and the desired outcome of solving it. It should also be broad enough to allow for creativity, but specific enough to provide direction and guidance. Here are some attributes of a great problem statement for an innovation project: Identify the problem and the user who is experiencing it. Describe the consequences and the objectives of solving the problem. Keep it broad enough to allow for innovation and creative freedom. Make it manageable and specific enough to provide direction and guidance. Set up for the proposal and the possible solutions. Please enhance the following problem statement: [INSERT YOUR PROBLEM HERE]
+
+3.
+For this enhanced problem statement create a persona with the following attributes: [LIST YOUR PERSONA'S ATTRIBUTES HERE]
+
+4.
+Generate 5 ideas to solve the problem statement for the persona we created.
+
+5.
+Using the following context and criteria:
+Desirability: Does the idea show a deep understanding of the user’s needs, wants, and limitations? 
+Problem Relevance: Does the idea address a significant problem or challenge faced by the persona? 
+Innovation Level: Is the idea new and creative, or is it a replication of existing solutions? 
+Feasibility: Can the product or service be built? Can the idea be quickly turned 
+into a prototype for testing? 
+Market Opportunity: Is there a market for this idea? Market feasibility is about evaluating whether potential customers exist and are willing to pay for your solution.
+Apply that criteria to the 5 ideas and score each idea on each criterion and rank the ideas in a table.
+
+6.
+Why did you score each of the ideas the way you did?  Provide a concise summary for each idea.
+
+7.
+Synthesize and mash up the best elements of each of the top 2 highest scoring ideas together to create one final idea.
+
+8.
+For the final idea create a specific 6-panel storyboard for a demo video. Provide a voice-over script for each panel.
+
+9.
+Create an image of the first panel.
+
+10. 
+Create an outline discovery interview script to test the final idea with the persona.
+
+11.
+Please simulate a discovery interview with our persona, using our discovery interview script. Please provide a transcript of the interview.
+
+12.
+For the idea, create a specific PowerPoint pitch deck outline to share with a sponsor.  A sponsor is like a venture capitalist.  A sponsor is someone who can help you move your idea forward by making connections or providing resources. Be specific and incorporate any relevant facts and market data. 
+Make sure to answer the following questions:
+Who is the primary customer?
+What is the opportunity? 
+How does it work? 
+What is innovative about our solution?
+What are the next steps?
